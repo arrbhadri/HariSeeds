@@ -1,0 +1,27 @@
+D:\HariSeedsWebApplication\HariSeedsWeb\HariSeedsWeb\bin\HariSeedsWeb.dll
+D:\HariSeedsWebApplication\HariSeedsWeb\HariSeedsWeb\bin\HariSeedsWeb.pdb
+D:\HariSeedsWebApplication\HariSeedsWeb\HariSeedsWeb\bin\AddStockDetailsEntity.dll
+D:\HariSeedsWebApplication\HariSeedsWeb\HariSeedsWeb\bin\BC.dll
+D:\HariSeedsWebApplication\HariSeedsWeb\HariSeedsWeb\bin\DAC.dll
+D:\HariSeedsWebApplication\HariSeedsWeb\HariSeedsWeb\bin\ErrorContext.dll
+D:\HariSeedsWebApplication\HariSeedsWeb\HariSeedsWeb\bin\AddStockDetailsEntity.pdb
+D:\HariSeedsWebApplication\HariSeedsWeb\HariSeedsWeb\bin\BC.pdb
+D:\HariSeedsWebApplication\HariSeedsWeb\HariSeedsWeb\bin\DAC.pdb
+D:\HariSeedsWebApplication\HariSeedsWeb\HariSeedsWeb\bin\ErrorContext.pdb
+D:\HariSeedsWebApplication\HariSeedsWeb\HariSeedsWeb\obj\Debug\ResolveAssemblyReference.cache
+D:\HariSeedsWebApplication\HariSeedsWeb\HariSeedsWeb\obj\Debug\HariSeedsWeb.dll
+D:\HariSeedsWebApplication\HariSeedsWeb\HariSeedsWeb\obj\Debug\HariSeedsWeb.pdb
+C:\Users\Bhadri\Desktop\Project\Hari Seeds\HariSeedsWebApplication\HariSeedsWeb\HariSeedsWeb\bin\HariSeedsWeb.dll.config
+C:\Users\Bhadri\Desktop\Project\Hari Seeds\HariSeedsWebApplication\HariSeedsWeb\HariSeedsWeb\bin\HariSeedsWeb.dll
+C:\Users\Bhadri\Desktop\Project\Hari Seeds\HariSeedsWebApplication\HariSeedsWeb\HariSeedsWeb\bin\HariSeedsWeb.pdb
+C:\Users\Bhadri\Desktop\Project\Hari Seeds\HariSeedsWebApplication\HariSeedsWeb\HariSeedsWeb\bin\AddStockDetailsEntity.dll
+C:\Users\Bhadri\Desktop\Project\Hari Seeds\HariSeedsWebApplication\HariSeedsWeb\HariSeedsWeb\bin\BC.dll
+C:\Users\Bhadri\Desktop\Project\Hari Seeds\HariSeedsWebApplication\HariSeedsWeb\HariSeedsWeb\bin\DAC.dll
+C:\Users\Bhadri\Desktop\Project\Hari Seeds\HariSeedsWebApplication\HariSeedsWeb\HariSeedsWeb\bin\ErrorContext.dll
+C:\Users\Bhadri\Desktop\Project\Hari Seeds\HariSeedsWebApplication\HariSeedsWeb\HariSeedsWeb\bin\AddStockDetailsEntity.pdb
+C:\Users\Bhadri\Desktop\Project\Hari Seeds\HariSeedsWebApplication\HariSeedsWeb\HariSeedsWeb\bin\BC.pdb
+C:\Users\Bhadri\Desktop\Project\Hari Seeds\HariSeedsWebApplication\HariSeedsWeb\HariSeedsWeb\bin\DAC.pdb
+C:\Users\Bhadri\Desktop\Project\Hari Seeds\HariSeedsWebApplication\HariSeedsWeb\HariSeedsWeb\bin\ErrorContext.pdb
+C:\Users\Bhadri\Desktop\Project\Hari Seeds\HariSeedsWebApplication\HariSeedsWeb\HariSeedsWeb\obj\Debug\HariSeedsWeb.csprojResolveAssemblyReference.cache
+C:\Users\Bhadri\Desktop\Project\Hari Seeds\HariSeedsWebApplication\HariSeedsWeb\HariSeedsWeb\obj\Debug\HariSeedsWeb.dll
+C:\Users\Bhadri\Desktop\Project\Hari Seeds\HariSeedsWebApplication\HariSeedsWeb\HariSeedsWeb\obj\Debug\HariSeedsWeb.pdb

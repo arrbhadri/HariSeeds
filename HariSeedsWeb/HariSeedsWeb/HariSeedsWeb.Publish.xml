@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\WebSite" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/BC.pdb" publishTime="08/07/2016 02:25:39" />
+    <file relUrl="Global.asax" publishTime="07/31/2016 14:55:25" />
+    <file relUrl="Site.Master" publishTime="08/07/2016 00:36:15" />
+    <file relUrl="Styles/Site.css" publishTime="07/31/2016 14:55:25" />
+    <file relUrl="Web.config" publishTime="08/07/2016 02:27:57" />
+    <file relUrl="About.aspx" publishTime="07/31/2016 14:55:25" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="07/31/2016 14:55:25" />
+    <file relUrl="bin/AddStockDetailsEntity.pdb" publishTime="08/06/2016 11:36:37" />
+    <file relUrl="Account/Web.config" publishTime="07/31/2016 14:55:25" />
+    <file relUrl="bin/AddStockDetailsEntity.dll" publishTime="08/06/2016 11:36:38" />
+    <file relUrl="Account/Login.aspx" publishTime="07/31/2016 14:55:25" />
+    <file relUrl="bin/ErrorContext.pdb" publishTime="08/06/2016 11:36:36" />
+    <file relUrl="bin/ErrorContext.dll" publishTime="08/06/2016 11:36:36" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="07/31/2016 14:55:25" />
+    <file relUrl="bin/DAC.pdb" publishTime="08/07/2016 02:25:39" />
+    <file relUrl="Default.aspx" publishTime="07/31/2016 14:55:25" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="07/31/2016 14:55:25" />
+    <file relUrl="DailySaleDetails.aspx" publishTime="08/07/2016 00:26:52" />
+    <file relUrl="Addstockdetailsss.aspx" publishTime="08/06/2016 13:18:30" />
+    <file relUrl="bin/HariSeedsWeb.dll" publishTime="08/07/2016 02:25:50" />
+    <file relUrl="Addcompanydetails.aspx" publishTime="08/07/2016 00:23:19" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="07/31/2016 14:55:25" />
+    <file relUrl="bin/HariSeedsWeb.pdb" publishTime="08/07/2016 02:25:50" />
+    <file relUrl="AddProductDetils.aspx" publishTime="08/07/2016 01:28:51" />
+    <file relUrl="AddStockDetails.aspx" publishTime="08/07/2016 00:25:45" />
+    <file relUrl="bin/DAC.dll" publishTime="08/07/2016 02:25:39" />
+    <file relUrl="Account/Register.aspx" publishTime="07/31/2016 14:55:25" />
+    <file relUrl="bin/BC.dll" publishTime="08/07/2016 02:25:39" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="07/31/2016 14:55:25" />
+  </publishProfile>
+</publishData>

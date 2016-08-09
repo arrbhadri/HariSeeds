@@ -1,0 +1,5 @@
+D:\HariSeedsWebApplication\HARISEEDSSERVICE\Bin\AddStockDetailsEntity.dll
+D:\HariSeedsWebApplication\HARISEEDSSERVICE\Bin\AddStockDetailsEntity.pdb
+D:\HariSeedsWebApplication\HARISEEDSSERVICE\AddStockDetailsEntity\obj\Debug\ResolveAssemblyReference.cache
+D:\HariSeedsWebApplication\HARISEEDSSERVICE\AddStockDetailsEntity\obj\Debug\AddStockDetailsEntity.dll
+D:\HariSeedsWebApplication\HARISEEDSSERVICE\AddStockDetailsEntity\obj\Debug\AddStockDetailsEntity.pdb

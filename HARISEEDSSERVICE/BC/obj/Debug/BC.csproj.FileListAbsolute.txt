@@ -1,0 +1,7 @@
+D:\HariSeedsWebApplication\HARISEEDSSERVICE\BC\bin\Debug\BC.dll
+D:\HariSeedsWebApplication\HARISEEDSSERVICE\BC\bin\Debug\BC.pdb
+D:\HariSeedsWebApplication\HARISEEDSSERVICE\BC\obj\Debug\ResolveAssemblyReference.cache
+D:\HariSeedsWebApplication\HARISEEDSSERVICE\BC\obj\Debug\BC.dll
+D:\HariSeedsWebApplication\HARISEEDSSERVICE\BC\obj\Debug\BC.pdb
+D:\HariSeedsWebApplication\HARISEEDSSERVICE\Bin\BC.dll
+D:\HariSeedsWebApplication\HARISEEDSSERVICE\Bin\BC.pdb
